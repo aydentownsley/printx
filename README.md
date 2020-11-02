@@ -1,9 +1,9 @@
-#README
+# README
 
 Re-coding printf for better understanding. Printx will have additional modifiers
 not present in printf.
 
-*printx*
+*_printx_*
 
 printx is a variadic function
 
